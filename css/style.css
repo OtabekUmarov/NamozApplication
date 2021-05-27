@@ -12,7 +12,11 @@
     font-family: 'n-l';
     src: url(../fonts/Nunito-Light.ttf);
 }
-
+.device {
+    width: 500px;
+    margin: auto;
+    margin-top: 50px;
+}
 body,
 * {
     margin: 0;
