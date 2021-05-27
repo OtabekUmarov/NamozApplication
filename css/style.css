@@ -30,6 +30,9 @@ body,
 }
 
 @media only screen and (max-width:425px) {
+    .device {
+        display: none;
+    }
     .mobile {
         position: relative;
         display: block;
